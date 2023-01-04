@@ -387,6 +387,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "@isantander:registry": "https://npm.pkg.github.com"
+  },
   "author": "idsf9",
   "license": "ISC"
 }
